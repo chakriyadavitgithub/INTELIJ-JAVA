@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e13ec3e4-9792-4c78-8e52-5a5dbe0c481e" name="Changes" comment="Iterate">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMF-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinledlistEx/ALvsLLEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinledlistEx/Linkedlistone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinledlistEx/Linkedlisttwo.java" afterDir="false" />
+    <list default="true" id="e13ec3e4-9792-4c78-8e52-5a5dbe0c481e" name="Changes" comment="Linked list">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,12 +79,29 @@
       <option name="project" value="LOCAL" />
       <updated>1729756104938</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Linked list">
+      <option name="closed" value="true" />
+      <created>1729928343223</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729928343223</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Linked list">
+      <option name="closed" value="true" />
+      <created>1729928444055</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729928444055</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Iterate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterate" />
+    <MESSAGE value="Linked list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linked list" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
